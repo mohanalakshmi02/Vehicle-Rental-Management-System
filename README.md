@@ -28,3 +28,5 @@ A full-stack web application that allows users to search for rental vehicles, vi
 
 ## Objective
 To develop a simple vehicle rental platform that manages vehicle searches, bookings, pricing, and booking records.
+## Booking Validation
+The system validates pickup and return dates, calculates the total rental cost, and prevents overlapping bookings for the same vehicle.
